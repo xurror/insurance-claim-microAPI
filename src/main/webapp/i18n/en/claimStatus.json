@@ -1,0 +1,8 @@
+{
+  "insuranceClaimApp": {
+    "ClaimStatus": {
+      "null": "",
+      "UnderReview": "UnderReview"
+    }
+  }
+}
